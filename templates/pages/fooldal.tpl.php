@@ -5,6 +5,7 @@
     A mesterséges intelligencia integrálása lehetővé teszi, hogy otthonunk előre megértse és kiszolgálja igényeinket – automatikusan szabályozza a fűtést, világítást, biztonsági rendszereket és még sok mást.
 </p>
 
+
 <video src="videos/intro.mp4" class="media-right" controls autoplay muted></video>
 
 <p>

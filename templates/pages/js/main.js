@@ -1,3 +1,4 @@
+
 window.onload = function() {
 	var kuld = document.getElementById("kuld");
 	if (kuld)

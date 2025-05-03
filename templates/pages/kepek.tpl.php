@@ -1,3 +1,4 @@
+
 <?php
     // Alkalmazás logika:
     include('config.inc.php');
