@@ -5,7 +5,8 @@
     A mesterséges intelligencia integrálása lehetővé teszi, hogy otthonunk előre megértse és kiszolgálja igényeinket – automatikusan szabályozza a fűtést, világítást, biztonsági rendszereket és még sok mást.
 </p>
 
-<video src="../../videos/intro.mp4" class="media-right" controls autoplay muted></video>
+
+<video src="videos/intro.mp4" class="media-right" controls autoplay muted></video>
 
 <p>
     Egy jól megtervezett okos otthon figyelembe veszi a lakók napi rutinját, és ahhoz igazítja működését. A redőnyök reggel automatikusan felgördülnek, a kávéfőző elindul, és a világítás fokozatosan világosodik. 

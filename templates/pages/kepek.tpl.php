@@ -1,3 +1,4 @@
+
 <?php
     // Alkalmazás logika:
     include('config.inc.php');
@@ -58,8 +59,8 @@
     </style>
 </head>
 <body>
+<h1>Galéria</h1>
     <div id="galeria">
-    <h1>Galéria</h1>
     <?php
     arsort($kepek);
     foreach($kepek as $fajl => $datum)
