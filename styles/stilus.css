@@ -75,3 +75,26 @@ footer {
     padding: 5px 20px;
     background-color: #CC99FF;
 }
+
+ .media-right {
+            float: right;
+            margin: 0 0 15px 15px;
+            width: 300px;
+        }
+        .media-left {
+            float: left;
+            margin: 0 15px 15px 0;
+            width: 300px;
+        }
+        iframe.media-left {
+            height: 169px; /* 16:9 arány 300px szélességgel */
+        }
+        .clear {
+            clear: both;
+        }
+
+.container {
+    max-width: 60%;
+    margin: 0 auto;
+    padding: 20px;
+}
